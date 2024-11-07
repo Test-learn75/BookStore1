@@ -8,7 +8,7 @@ export default function CopyRight() {
   return (
     <div className='footer-copyright'>
         <div className="container copyright-container">
-            <p>© 2024 Qualihom All rights reserved.</p>
+            <p>© copyright 2024 All rights reserved || Made with ❤️ by Qualihom</p>
             <div className="footer-socials">
                 {
                     FootersLinksData.socials.map((item,index)=>{
